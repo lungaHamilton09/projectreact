@@ -18,7 +18,7 @@ function App() {
       <nav id="hamburger-nav">
         <div class="logo">Lunga Momoza</div>
         <div class="hamburger-menu">
-          <div class="hamburger-icon" onclick="toggleMenu()">
+          <div class="hamburger-icon" onclick="toggleMenu()"> 
             <span></span>
             <span></span>
             <span></span>
