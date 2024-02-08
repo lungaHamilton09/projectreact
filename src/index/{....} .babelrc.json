@@ -1,0 +1,16 @@
+{
+    "sourceType": "unambiguous",
+    "presents": [
+        [
+            "@babel/present-env",
+            {
+                "targets": {
+                    "chrome": 100
+                }
+            }
+        ],
+        "@babel/present-typescript",
+        "@babel/present-react"
+    ],
+    "plugins": []
+}
